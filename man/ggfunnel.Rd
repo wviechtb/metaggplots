@@ -16,7 +16,7 @@ ggfunnel(x, \dots)
    Description of what the function does.
 }
 \note{
-   In case some additiona notes are needed.
+   In case some additional notes are needed.
 }
 \value{
    A plot object.
