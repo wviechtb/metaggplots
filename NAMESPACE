@@ -1,0 +1,8 @@
+exportPattern("^[^\\.]")
+
+import(methods)
+import(stats)
+import(ggplot2)
+import(metafor)
+
+S3method(ggfunnel, rma)
